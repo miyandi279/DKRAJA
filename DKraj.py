@@ -209,9 +209,7 @@ def cari(inurl , site , maxc):
 if __name__ == "__main__":
 	
 	 print (R+";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;")
-   print (R+";;;      CODE BY MIYANDI1927         ;;;")
-   print (R+";;;      TEAM BCSET-TEKNOLOGI        ;;;")
-   print (R+";;;     YT TEAM RISKIS7 CHANNEL      ;;;")
+   print (R+";;;      CODE BY zxsuu               ;;;")
    print (R+";;;          TOOLS DKRAJA            ;;;")
   print (R+";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;")
  	print (W+43*"-")
