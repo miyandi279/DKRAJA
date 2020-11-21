@@ -95,7 +95,7 @@ sites = ['ac', 'ad', 'ae', 'af', 'ag', 'ai', 'al', 'am', 'an', 'ao',
            'vn', 'vu', 'wf', 'ws', 'ye', 'yt', 'za', 'zm', 'zw', 'com',
            'net', 'org','biz', 'gov', 'mil', 'edu', 'info', 'int', 'tel',
            'name', 'aero', 'asia', 'cat', 'coop', 'jobs', 'mobi', 'museum',
-           'pro', 'travel']
+           'pro', 'travel' , 'xyz' ]
 
 # Checking Vuln Web --
 def cek():
