@@ -1,4 +1,5 @@
-#BY MIYANDI1927
+#CODE BY : MIYANDI279
+#TEAM : @bengkulucyberteam
 import urllib2 , cookielib , random , re , sys , socket , time , httplib , ssl
 
 
@@ -207,9 +208,8 @@ def cari(inurl , site , maxc):
     return finallist
 
 if __name__ == "__main__":
-	
-	 print (R+";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;")
-   print (R+";;;      CODE BY zxsuu               ;;;")
+   print (R+";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;")
+   print (R+";;;      CODE BY MIYANDI279 | BCT    ;;;")
    print (R+";;;          TOOLS DKRAJA            ;;;")
   print (R+";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;")
  	print (W+43*"-")
